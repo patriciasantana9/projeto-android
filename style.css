@@ -85,7 +85,7 @@ nav > a:hover {
 }
 
 main {
-    min-width: 320px; /*para telas muito pequenas*/
+    min-width: 400px; /*para telas muito pequenas*/
     max-width: 1000px; /*para telas muito grandes*/
     background-color: white;
     margin: auto;
